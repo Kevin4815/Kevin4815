@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kevin4815
 - 👀 I’m interested in programmation
-- 🌱 I’m currently learning Javascript and Php
+- Javascript, Php, Python, C#
 
 <!---
 Kevin4815/Kevin4815 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
